@@ -119,8 +119,12 @@ ul {
     position: relative;
     margin: 10px;
     width: 300px;
+    opacity: 1;
    /* height: 250px; */
 }
+.grid-image:hover {
+    opacity: 0.3;
+  }
 #pic-words {
    position: absolute;
    width: 91%;
